@@ -5,14 +5,14 @@ This project was completed as part of the B.Sc. in Data Science at Ben-Gurion Un
 ---
 
 ## 📂 Project Structure
-"""
+```
 ├── Activity_Recognition.ipynb # Main notebook with model training and evaluation
 ├── Assignment_instructions.docx # Original assignment description
 ├── Report.pdf # Final report detailing methodology and results
 ├── data/
 │ ├── train.csv # Training data (not included in public repo)
 │ └── test.csv # Test data (not included in public repo)
-"""
+```
 ---
 ## 🧠 Objective
 
